@@ -1,0 +1,4 @@
+Contact: mailto:huiswerketen@gmail.com
+Expires: 2027-11-22T00:00:00.000Z
+Preferred-Languages: nl, en
+Canonical: https://muisenwoezelmc.github.io/.well-known/security.txt
